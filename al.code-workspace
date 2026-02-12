@@ -1,6 +1,9 @@
 {
   "folders": [
     {
+      "path": "Override App"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
